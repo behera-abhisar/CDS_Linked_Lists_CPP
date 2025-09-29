@@ -37,7 +37,7 @@ Linked lists are stored in **non-contiguous memory locations**, unlike arrays.
 - **Extra memory** for storing pointers.
 - **Sequential access** only (no direct indexing like arrays).
 
-### 6. PRACTICAL USE
+### 6. Practical Use
 Linked lists are widely used in implementing:
 - **Stacks and queues**
 - **Graphs (adjacency list)**
