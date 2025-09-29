@@ -39,10 +39,10 @@ Linked lists are stored in **non-contiguous memory locations**, unlike arrays.
 
 ### 6. Practical Use
 Linked lists are widely used in implementing:
-- **Stacks and queues**
-- **Graphs (adjacency list)**
-- **Memory management systems**
-- **Dynamic data structures (polynomial representation, sparse matrices)**
+- Stacks and queues
+- Graphs (adjacency list)
+- Memory management systems
+- Dynamic data structures (polynomial representation, sparse matrices)
 
 ## EXPERIMENT 17(A): CREATING A NODE IN  A LINKED LIST
 
